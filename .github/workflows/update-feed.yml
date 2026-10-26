@@ -1,0 +1,30 @@
+name: Update local inventory feed
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate feed
+        env:
+          FEED_URL: ${{ secrets.FEED_URL }}
+        run: python3 generate_local_inventory.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add local_inventory_pl.txt
+          git diff --staged --quiet || git commit -m "Update local inventory feed"
+          git push
