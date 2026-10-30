@@ -175,7 +175,6 @@ Wadowice1	4131	in_stock	1285.00 PLN
 Wadowice1	4134	in_stock	392.00 PLN
 Wadowice1	4139	in_stock	704.00 PLN
 Wadowice1	4144	in_stock	522.00 PLN
-Wadowice1	4151	in_stock	7743.00 PLN
 Wadowice1	4152	in_stock	8681.00 PLN
 Wadowice1	4153	in_stock	1325.00 PLN
 Wadowice1	4155	in_stock	1285.00 PLN
@@ -241,6 +240,7 @@ Wadowice1	4356	in_stock	626.00 PLN
 Wadowice1	4365	in_stock	1643.00 PLN
 Wadowice1	4369	in_stock	8191.00 PLN
 Wadowice1	4385	in_stock	4738.00 PLN
+Wadowice1	4386	in_stock	4658.00 PLN
 Wadowice1	4392	in_stock	8800.00 PLN
 Wadowice1	4393	in_stock	8800.00 PLN
 Wadowice1	4394	in_stock	4100.00 PLN
@@ -400,7 +400,7 @@ Wadowice1	4984	in_stock	704.00 PLN
 Wadowice1	4987	in_stock	775.00 PLN
 Wadowice1	4988	in_stock	775.00 PLN
 Wadowice1	4989	in_stock	775.00 PLN
-Wadowice1	4997	in_stock	548.00 PLN
+Wadowice1	4997	in_stock	579.00 PLN
 Wadowice1	5004	in_stock	1174.00 PLN
 Wadowice1	5008	in_stock	1369.00 PLN
 Wadowice1	5017	in_stock	2570.00 PLN
@@ -537,8 +537,8 @@ Wadowice1	5618	in_stock	1408.00 PLN
 Wadowice1	5627	in_stock	2386.00 PLN
 Wadowice1	5628	in_stock	2425.00 PLN
 Wadowice1	5629	in_stock	2464.00 PLN
+Wadowice1	5633	in_stock	7117.00 PLN
 Wadowice1	5639	in_stock	2464.00 PLN
-Wadowice1	5640	in_stock	1486.00 PLN
 Wadowice1	5652	in_stock	235.00 PLN
 Wadowice1	5663	in_stock	392.00 PLN
 Wadowice1	5667	in_stock	1252.00 PLN
@@ -652,8 +652,6 @@ Wadowice1	6345	in_stock	2409.00 PLN
 Wadowice1	6400	in_stock	1847.00 PLN
 Wadowice1	6424	in_stock	2690.00 PLN
 Wadowice1	6463	in_stock	2249.00 PLN
-Wadowice1	6464	in_stock	1687.00 PLN
-Wadowice1	6480	in_stock	844.00 PLN
 Wadowice1	6484	in_stock	1606.00 PLN
 Wadowice1	6496	in_stock	13530.00 PLN
 Wadowice1	6499	in_stock	10167.00 PLN
@@ -725,7 +723,6 @@ Wadowice1	7113	in_stock	1928.00 PLN
 Wadowice1	7139	in_stock	2048.00 PLN
 Wadowice1	7140	in_stock	1606.00 PLN
 Wadowice1	7154	in_stock	6826.00 PLN
-Wadowice1	7170	in_stock	844.00 PLN
 Wadowice1	7171	in_stock	1095.00 PLN
 Wadowice1	7176	in_stock	763.00 PLN
 Wadowice1	7182	in_stock	2731.00 PLN
@@ -740,6 +737,7 @@ Wadowice1	7242	in_stock	3586.00 PLN
 Wadowice1	7245	in_stock	3679.00 PLN
 Wadowice1	7266	in_stock	603.00 PLN
 Wadowice1	7269	in_stock	884.00 PLN
+Wadowice1	7272	in_stock	795.00 PLN
 Wadowice1	7273	in_stock	2088.00 PLN
 Wadowice1	7284	in_stock	2490.00 PLN
 Wadowice1	7286	in_stock	1245.00 PLN
@@ -895,7 +893,6 @@ Wadowice1	8374	in_stock	6242.00 PLN
 Wadowice1	8376	in_stock	643.00 PLN
 Wadowice1	8386	in_stock	7128.00 PLN
 Wadowice1	8388	in_stock	2490.00 PLN
-Wadowice1	8392	in_stock	8068.00 PLN
 Wadowice1	8397	in_stock	1213.00 PLN
 Wadowice1	8402	in_stock	1205.00 PLN
 Wadowice1	8404	in_stock	507.00 PLN
@@ -949,8 +946,6 @@ Wadowice1	8668	in_stock	2008.00 PLN
 Wadowice1	8672	in_stock	1205.00 PLN
 Wadowice1	8675	in_stock	795.00 PLN
 Wadowice1	8676	in_stock	795.00 PLN
-Wadowice1	8680	in_stock	1165.00 PLN
-Wadowice1	8681	in_stock	1285.00 PLN
 Wadowice1	8682	in_stock	723.00 PLN
 Wadowice1	8684	in_stock	1525.00 PLN
 Wadowice1	8688	in_stock	1285.00 PLN
@@ -1040,6 +1035,7 @@ Wadowice1	9026	in_stock	1682.00 PLN
 Wadowice1	9029	in_stock	2894.00 PLN
 Wadowice1	9032	in_stock	5475.00 PLN
 Wadowice1	9038	in_stock	1285.00 PLN
+Wadowice1	9039	in_stock	2503.00 PLN
 Wadowice1	9047	in_stock	2209.00 PLN
 Wadowice1	9048	in_stock	2401.00 PLN
 Wadowice1	9049	in_stock	6622.00 PLN
@@ -1098,7 +1094,6 @@ Wadowice1	9288	in_stock	322.00 PLN
 Wadowice1	9289	in_stock	362.00 PLN
 Wadowice1	9293	in_stock	241.00 PLN
 Wadowice1	9294	in_stock	241.00 PLN
-Wadowice1	9295	in_stock	322.00 PLN
 Wadowice1	9296	in_stock	201.00 PLN
 Wadowice1	9297	in_stock	265.00 PLN
 Wadowice1	9300	in_stock	482.00 PLN
@@ -1106,7 +1101,6 @@ Wadowice1	9303	in_stock	241.00 PLN
 Wadowice1	9306	in_stock	282.00 PLN
 Wadowice1	9307	in_stock	201.00 PLN
 Wadowice1	9308	in_stock	241.00 PLN
-Wadowice1	9312	in_stock	2308.00 PLN
 Wadowice1	9313	in_stock	322.00 PLN
 Wadowice1	9314	in_stock	362.00 PLN
 Wadowice1	9315	in_stock	322.00 PLN
@@ -1202,6 +1196,7 @@ Wadowice1	9636	in_stock	1125.00 PLN
 Wadowice1	9637	in_stock	1606.00 PLN
 Wadowice1	9649	in_stock	2530.00 PLN
 Wadowice1	9653	in_stock	2971.00 PLN
+Wadowice1	9661	in_stock	1310.00 PLN
 Wadowice1	9668	in_stock	2449.00 PLN
 Wadowice1	9669	in_stock	2449.00 PLN
 Wadowice1	9674	in_stock	2409.00 PLN
@@ -1251,7 +1246,6 @@ Wadowice1	9836	in_stock	442.00 PLN
 Wadowice1	9837	in_stock	470.00 PLN
 Wadowice1	9840	in_stock	1447.00 PLN
 Wadowice1	9842	in_stock	5631.00 PLN
-Wadowice1	9857	in_stock	1928.00 PLN
 Wadowice1	9858	in_stock	16189.00 PLN
 Wadowice1	9865	in_stock	939.00 PLN
 Wadowice1	9867	in_stock	2209.00 PLN
@@ -1385,6 +1379,7 @@ Wadowice1	10425	in_stock	442.00 PLN
 Wadowice1	10426	in_stock	563.00 PLN
 Wadowice1	10428	in_stock	743.00 PLN
 Wadowice1	10429	in_stock	442.00 PLN
+Wadowice1	10431	in_stock	795.00 PLN
 Wadowice1	10432	in_stock	763.00 PLN
 Wadowice1	10434	in_stock	1245.00 PLN
 Wadowice1	10435	in_stock	251.00 PLN
@@ -1393,7 +1388,6 @@ Wadowice1	10438	in_stock	482.00 PLN
 Wadowice1	10441	in_stock	1325.00 PLN
 Wadowice1	10444	in_stock	1727.00 PLN
 Wadowice1	10445	in_stock	1877.00 PLN
-Wadowice1	10446	in_stock	2190.00 PLN
 Wadowice1	10447	in_stock	1956.00 PLN
 Wadowice1	10457	in_stock	884.00 PLN
 Wadowice1	10459	in_stock	1928.00 PLN
@@ -1405,7 +1399,6 @@ Wadowice1	10478	in_stock	1366.00 PLN
 Wadowice1	10480	in_stock	4144.00 PLN
 Wadowice1	10484	in_stock	1486.00 PLN
 Wadowice1	10485	in_stock	1330.00 PLN
-Wadowice1	10488	in_stock	884.00 PLN
 Wadowice1	10489	in_stock	665.00 PLN
 Wadowice1	10490	in_stock	1004.00 PLN
 Wadowice1	10491	in_stock	1369.00 PLN
@@ -6844,6 +6837,7 @@ Wadowice1	16063	in_stock	1369.00 PLN
 Wadowice1	16069	in_stock	964.00 PLN
 Wadowice1	16072	in_stock	1174.00 PLN
 Wadowice1	16074	in_stock	1213.00 PLN
+Wadowice1	16077	in_stock	2659.00 PLN
 Wadowice1	16081	in_stock	1134.00 PLN
 Wadowice1	16082	in_stock	1174.00 PLN
 Wadowice1	16083	in_stock	1174.00 PLN
@@ -6873,7 +6867,6 @@ Wadowice1	16154	in_stock	1165.00 PLN
 Wadowice1	16163	in_stock	1565.00 PLN
 Wadowice1	16172	in_stock	1044.00 PLN
 Wadowice1	16173	in_stock	1125.00 PLN
-Wadowice1	16174	in_stock	2659.00 PLN
 Wadowice1	16175	in_stock	4615.00 PLN
 Wadowice1	16176	in_stock	1956.00 PLN
 Wadowice1	16177	in_stock	1956.00 PLN
@@ -6893,13 +6886,11 @@ Wadowice1	16229	in_stock	7586.00 PLN
 Wadowice1	16231	in_stock	2048.00 PLN
 Wadowice1	16233	in_stock	1566.00 PLN
 Wadowice1	16235	in_stock	5944.00 PLN
-Wadowice1	16239	in_stock	2249.00 PLN
 Wadowice1	16240	in_stock	4497.00 PLN
 Wadowice1	16241	in_stock	7899.00 PLN
 Wadowice1	16243	in_stock	2008.00 PLN
 Wadowice1	16245	in_stock	8916.00 PLN
 Wadowice1	16246	in_stock	1526.00 PLN
-Wadowice1	16247	in_stock	3129.00 PLN
 Wadowice1	16248	in_stock	5006.00 PLN
 Wadowice1	16251	in_stock	2048.00 PLN
 Wadowice1	16254	in_stock	1205.00 PLN
@@ -7537,7 +7528,6 @@ Wadowice1	17302	in_stock	1255.00 PLN
 Wadowice1	17303	in_stock	1526.00 PLN
 Wadowice1	17306	in_stock	1566.00 PLN
 Wadowice1	17308	in_stock	1044.00 PLN
-Wadowice1	17310	in_stock	1205.00 PLN
 Wadowice1	17316	in_stock	1968.00 PLN
 Wadowice1	17321	in_stock	1687.00 PLN
 Wadowice1	17322	in_stock	1727.00 PLN
@@ -7565,7 +7555,6 @@ Wadowice1	17402	in_stock	1366.00 PLN
 Wadowice1	17404	in_stock	1446.00 PLN
 Wadowice1	17406	in_stock	1486.00 PLN
 Wadowice1	17407	in_stock	1486.00 PLN
-Wadowice1	17408	in_stock	1325.00 PLN
 Wadowice1	17412	in_stock	1125.00 PLN
 Wadowice1	17416	in_stock	1525.00 PLN
 Wadowice1	17419	in_stock	1366.00 PLN
@@ -7649,7 +7638,6 @@ Wadowice1	17633	in_stock	665.00 PLN
 Wadowice1	17635	in_stock	743.00 PLN
 Wadowice1	17636	in_stock	775.00 PLN
 Wadowice1	17637	in_stock	704.00 PLN
-Wadowice1	17638	in_stock	704.00 PLN
 Wadowice1	17639	in_stock	1995.00 PLN
 Wadowice1	17640	in_stock	1056.00 PLN
 Wadowice1	17641	in_stock	2034.00 PLN
@@ -7684,7 +7672,7 @@ Wadowice1	17695	in_stock	470.00 PLN
 Wadowice1	17697	in_stock	352.00 PLN
 Wadowice1	17698	in_stock	470.00 PLN
 Wadowice1	17700	in_stock	431.00 PLN
-Wadowice1	17707	in_stock	548.00 PLN
+Wadowice1	17707	in_stock	524.00 PLN
 Wadowice1	17710	in_stock	2209.00 PLN
 Wadowice1	17711	in_stock	2931.00 PLN
 Wadowice1	17715	in_stock	3911.00 PLN
@@ -8181,9 +8169,12 @@ Wadowice1	18280	in_stock	1406.00 PLN
 Wadowice1	18285	in_stock	2409.00 PLN
 Wadowice1	18287	in_stock	2971.00 PLN
 Wadowice1	18289	in_stock	743.00 PLN
+Wadowice1	18290	in_stock	4336.00 PLN
 Wadowice1	18292	in_stock	3493.00 PLN
 Wadowice1	18293	in_stock	1526.00 PLN
+Wadowice1	18296	in_stock	4939.00 PLN
 Wadowice1	18298	in_stock	2690.00 PLN
+Wadowice1	18301	in_stock	4497.00 PLN
 Wadowice1	18307	in_stock	1606.00 PLN
 Wadowice1	18312	in_stock	2811.00 PLN
 Wadowice1	18313	in_stock	1526.00 PLN
@@ -8197,6 +8188,7 @@ Wadowice1	18329	in_stock	6318.00 PLN
 Wadowice1	18331	in_stock	5785.00 PLN
 Wadowice1	18333	in_stock	2398.00 PLN
 Wadowice1	18339	in_stock	803.00 PLN
+Wadowice1	18350	in_stock	4858.00 PLN
 Wadowice1	18352	in_stock	3975.00 PLN
 Wadowice1	18354	in_stock	1174.00 PLN
 Wadowice1	18356	in_stock	8221.00 PLN
@@ -8397,12 +8389,10 @@ Wadowice1	18721	in_stock	6257.00 PLN
 Wadowice1	18727	in_stock	2741.00 PLN
 Wadowice1	18731	in_stock	12178.00 PLN
 Wadowice1	18733	in_stock	3273.00 PLN
-Wadowice1	18735	in_stock	3207.00 PLN
 Wadowice1	18736	in_stock	2816.00 PLN
 Wadowice1	18737	in_stock	1174.00 PLN
 Wadowice1	18739	in_stock	2581.00 PLN
 Wadowice1	18742	in_stock	5829.00 PLN
-Wadowice1	18745	in_stock	1877.00 PLN
 Wadowice1	18746	in_stock	795.00 PLN
 Wadowice1	18747	in_stock	1084.00 PLN
 Wadowice1	18748	in_stock	1165.00 PLN
@@ -8712,6 +8702,7 @@ Wadowice1	19542	in_stock	1325.00 PLN
 Wadowice1	19543	in_stock	1887.00 PLN
 Wadowice1	19544	in_stock	2008.00 PLN
 Wadowice1	19548	in_stock	1004.00 PLN
+Wadowice1	19551	in_stock	2048.00 PLN
 Wadowice1	19554	in_stock	665.00 PLN
 Wadowice1	19555	in_stock	1847.00 PLN
 Wadowice1	19556	in_stock	1928.00 PLN
@@ -8728,13 +8719,13 @@ Wadowice1	19572	in_stock	1887.00 PLN
 Wadowice1	19573	in_stock	1727.00 PLN
 Wadowice1	19576	in_stock	763.00 PLN
 Wadowice1	19578	in_stock	924.00 PLN
-Wadowice1	19580	in_stock	683.00 PLN
 Wadowice1	19587	in_stock	660.00 PLN
 Wadowice1	19592	in_stock	563.00 PLN
 Wadowice1	19594	in_stock	1285.00 PLN
 Wadowice1	19597	in_stock	2048.00 PLN
 Wadowice1	19598	in_stock	4336.00 PLN
 Wadowice1	19599	in_stock	4176.00 PLN
+Wadowice1	19600	in_stock	4658.00 PLN
 Wadowice1	19607	in_stock	2088.00 PLN
 Wadowice1	19608	in_stock	783.00 PLN
 Wadowice1	19609	in_stock	1928.00 PLN
@@ -8944,7 +8935,6 @@ Wadowice1	19919	in_stock	1213.00 PLN
 Wadowice1	19920	in_stock	1213.00 PLN
 Wadowice1	19925	in_stock	1095.00 PLN
 Wadowice1	19928	in_stock	1446.00 PLN
-Wadowice1	19929	in_stock	884.00 PLN
 Wadowice1	19930	in_stock	626.00 PLN
 Wadowice1	19935	in_stock	1134.00 PLN
 Wadowice1	19944	in_stock	2048.00 PLN
@@ -8954,6 +8944,7 @@ Wadowice1	19948	in_stock	2088.00 PLN
 Wadowice1	19949	in_stock	2008.00 PLN
 Wadowice1	19954	in_stock	1767.00 PLN
 Wadowice1	19955	in_stock	1847.00 PLN
+Wadowice1	19957	in_stock	1847.00 PLN
 Wadowice1	19959	in_stock	1847.00 PLN
 Wadowice1	19960	in_stock	1968.00 PLN
 Wadowice1	19962	in_stock	2659.00 PLN
@@ -9019,7 +9010,6 @@ Wadowice1	20092	in_stock	3293.00 PLN
 Wadowice1	20093	in_stock	19111.00 PLN
 Wadowice1	20100	in_stock	1916.00 PLN
 Wadowice1	20112	in_stock	4176.00 PLN
-Wadowice1	20113	in_stock	4216.00 PLN
 Wadowice1	20114	in_stock	2971.00 PLN
 Wadowice1	20117	in_stock	3413.00 PLN
 Wadowice1	20119	in_stock	2209.00 PLN
@@ -11838,7 +11828,6 @@ Wadowice1	22967	in_stock	2307.00 PLN
 Wadowice1	22968	in_stock	2225.00 PLN
 Wadowice1	22969	in_stock	2925.00 PLN
 Wadowice1	22971	in_stock	3252.00 PLN
-Wadowice1	22975	in_stock	4096.00 PLN
 Wadowice1	22976	in_stock	1318.00 PLN
 Wadowice1	22977	in_stock	1318.00 PLN
 Wadowice1	22978	in_stock	2363.00 PLN
@@ -11863,7 +11852,6 @@ Wadowice1	23000	in_stock	1968.00 PLN
 Wadowice1	23001	in_stock	2088.00 PLN
 Wadowice1	23002	in_stock	2008.00 PLN
 Wadowice1	23003	in_stock	2008.00 PLN
-Wadowice1	23008	in_stock	2249.00 PLN
 Wadowice1	23010	in_stock	2329.00 PLN
 Wadowice1	23011	in_stock	1381.00 PLN
 Wadowice1	23012	in_stock	1820.00 PLN
@@ -11932,6 +11920,7 @@ Wadowice1	23087	in_stock	643.00 PLN
 Wadowice1	23088	in_stock	1245.00 PLN
 Wadowice1	23090	in_stock	1767.00 PLN
 Wadowice1	23091	in_stock	1968.00 PLN
+Wadowice1	23094	in_stock	2925.00 PLN
 Wadowice1	23095	in_stock	2925.00 PLN
 Wadowice1	23099	in_stock	803.00 PLN
 Wadowice1	23102	in_stock	2132.00 PLN
@@ -11967,13 +11956,17 @@ Wadowice1	23151	in_stock	1566.00 PLN
 Wadowice1	23152	in_stock	1647.00 PLN
 Wadowice1	23153	in_stock	2168.00 PLN
 Wadowice1	23154	in_stock	2128.00 PLN
-Wadowice1	23155	in_stock	1687.00 PLN
 Wadowice1	23156	in_stock	1687.00 PLN
 Wadowice1	23158	in_stock	924.00 PLN
 Wadowice1	23159	in_stock	1285.00 PLN
 Wadowice1	23161	in_stock	1566.00 PLN
+Wadowice1	23162	in_stock	3131.00 PLN
+Wadowice1	23163	in_stock	1566.00 PLN
 Wadowice1	23169	in_stock	1647.00 PLN
 Wadowice1	23170	in_stock	1687.00 PLN
+Wadowice1	23176	in_stock	3214.00 PLN
+Wadowice1	23177	in_stock	2884.00 PLN
+Wadowice1	23178	in_stock	2884.00 PLN
 Wadowice1	23179	in_stock	3214.00 PLN
 Wadowice1	23182	in_stock	1174.00 PLN
 Wadowice1	23186	in_stock	1727.00 PLN
@@ -12018,6 +12011,7 @@ Wadowice1	23288	in_stock	1285.00 PLN
 Wadowice1	23295	in_stock	844.00 PLN
 Wadowice1	23297	in_stock	1687.00 PLN
 Wadowice1	23315	in_stock	3373.00 PLN
+Wadowice1	23317	in_stock	3293.00 PLN
 Wadowice1	23320	in_stock	1647.00 PLN
 Wadowice1	23321	in_stock	924.00 PLN
 Wadowice1	23322	in_stock	924.00 PLN
@@ -12056,7 +12050,6 @@ Wadowice1	23385	in_stock	743.00 PLN
 Wadowice1	23386	in_stock	626.00 PLN
 Wadowice1	23387	in_stock	587.00 PLN
 Wadowice1	23388	in_stock	626.00 PLN
-Wadowice1	23392	in_stock	1687.00 PLN
 Wadowice1	23393	in_stock	2891.00 PLN
 Wadowice1	23397	in_stock	824.00 PLN
 Wadowice1	23401	in_stock	626.00 PLN
@@ -12095,7 +12088,6 @@ Wadowice1	23449	in_stock	4015.00 PLN
 Wadowice1	23455	in_stock	1134.00 PLN
 Wadowice1	23456	in_stock	1408.00 PLN
 Wadowice1	23457	in_stock	550.00 PLN
-Wadowice1	23458	in_stock	9776.00 PLN
 Wadowice1	23459	in_stock	10558.00 PLN
 Wadowice1	23460	in_stock	12278.00 PLN
 Wadowice1	23461	in_stock	2731.00 PLN
@@ -12531,6 +12523,7 @@ Wadowice1	24033	in_stock	4350.00 PLN
 Wadowice1	24034	in_stock	3890.00 PLN
 Wadowice1	24035	in_stock	4496.00 PLN
 Wadowice1	24036	in_stock	4350.00 PLN
+Wadowice1	24038	in_stock	5139.00 PLN
 Wadowice1	24039	in_stock	4496.00 PLN
 Wadowice1	24040	in_stock	4559.00 PLN
 Wadowice1	24041	in_stock	4454.00 PLN
@@ -12884,6 +12877,7 @@ Wadowice1	24467	in_stock	152894.00 PLN
 Wadowice1	24469	in_stock	3333.00 PLN
 Wadowice1	24470	in_stock	4256.00 PLN
 Wadowice1	24486	in_stock	241.00 PLN
+Wadowice1	24487	in_stock	2209.00 PLN
 Wadowice1	24488	in_stock	2931.00 PLN
 Wadowice1	24491	in_stock	1406.00 PLN
 Wadowice1	24494	in_stock	1125.00 PLN
@@ -12891,12 +12885,13 @@ Wadowice1	24495	in_stock	1084.00 PLN
 Wadowice1	24497	in_stock	3052.00 PLN
 Wadowice1	24498	in_stock	2409.00 PLN
 Wadowice1	24501	in_stock	2731.00 PLN
-Wadowice1	24502	in_stock	2610.00 PLN
+Wadowice1	24503	in_stock	3060.00 PLN
 Wadowice1	24504	in_stock	844.00 PLN
 Wadowice1	24510	in_stock	1084.00 PLN
 Wadowice1	24511	in_stock	2369.00 PLN
 Wadowice1	24512	in_stock	5782.00 PLN
 Wadowice1	24513	in_stock	2308.00 PLN
+Wadowice1	24514	in_stock	2570.00 PLN
 Wadowice1	24516	in_stock	7227.00 PLN
 Wadowice1	24517	in_stock	7950.00 PLN
 Wadowice1	24522	in_stock	3092.00 PLN
@@ -12989,6 +12984,7 @@ Wadowice1	24623	in_stock	5040.00 PLN
 Wadowice1	24624	in_stock	7277.00 PLN
 Wadowice1	24625	in_stock	2570.00 PLN
 Wadowice1	24626	in_stock	2449.00 PLN
+Wadowice1	24627	in_stock	1847.00 PLN
 Wadowice1	24628	in_stock	924.00 PLN
 Wadowice1	24630	in_stock	1245.00 PLN
 Wadowice1	24631	in_stock	1205.00 PLN
@@ -13176,6 +13172,7 @@ Wadowice1	24880	in_stock	3951.00 PLN
 Wadowice1	24882	in_stock	5633.00 PLN
 Wadowice1	24883	in_stock	1916.00 PLN
 Wadowice1	24884	in_stock	2019.00 PLN
+Wadowice1	24885	in_stock	2101.00 PLN
 Wadowice1	24888	in_stock	1277.00 PLN
 Wadowice1	24889	in_stock	1360.00 PLN
 Wadowice1	24892	in_stock	2034.00 PLN
@@ -13241,6 +13238,10 @@ Wadowice1	24993	in_stock	2168.00 PLN
 Wadowice1	24996	in_stock	803.00 PLN
 Wadowice1	24999	in_stock	924.00 PLN
 Wadowice1	25000	in_stock	844.00 PLN
+Wadowice1	25002	in_stock	924.00 PLN
+Wadowice1	25003	in_stock	924.00 PLN
+Wadowice1	25004	in_stock	884.00 PLN
+Wadowice1	25006	in_stock	924.00 PLN
 Wadowice1	25008	in_stock	964.00 PLN
 Wadowice1	25009	in_stock	924.00 PLN
 Wadowice1	25010	in_stock	964.00 PLN
@@ -14864,6 +14865,7 @@ Wadowice1	26640	in_stock	12267.00 PLN
 Wadowice1	26641	in_stock	14869.00 PLN
 Wadowice1	26642	in_stock	11748.00 PLN
 Wadowice1	26643	in_stock	683.00 PLN
+Wadowice1	26644	in_stock	3132.00 PLN
 Wadowice1	26649	in_stock	2690.00 PLN
 Wadowice1	26653	in_stock	4203.00 PLN
 Wadowice1	26654	in_stock	4350.00 PLN
@@ -15288,7 +15290,7 @@ Wadowice1	27081	in_stock	1446.00 PLN
 Wadowice1	27083	in_stock	1968.00 PLN
 Wadowice1	27085	in_stock	1165.00 PLN
 Wadowice1	27087	in_stock	2008.00 PLN
-Wadowice1	27090	in_stock	3895.00 PLN
+Wadowice1	27089	in_stock	3814.00 PLN
 Wadowice1	27100	in_stock	7664.00 PLN
 Wadowice1	27101	in_stock	1084.00 PLN
 Wadowice1	27102	in_stock	1218.00 PLN
@@ -15313,7 +15315,6 @@ Wadowice1	27138	in_stock	2570.00 PLN
 Wadowice1	27139	in_stock	2369.00 PLN
 Wadowice1	27140	in_stock	2891.00 PLN
 Wadowice1	27142	in_stock	3533.00 PLN
-Wadowice1	27145	in_stock	861.00 PLN
 Wadowice1	27146	in_stock	884.00 PLN
 Wadowice1	27147	in_stock	665.00 PLN
 Wadowice1	27148	in_stock	884.00 PLN
@@ -16072,6 +16073,7 @@ Wadowice1	27969	in_stock	3785.00 PLN
 Wadowice1	27970	in_stock	3702.00 PLN
 Wadowice1	27971	in_stock	3325.00 PLN
 Wadowice1	27972	in_stock	506.00 PLN
+Wadowice1	27973	in_stock	4944.00 PLN
 Wadowice1	27975	in_stock	603.00 PLN
 Wadowice1	27976	in_stock	1044.00 PLN
 Wadowice1	27977	in_stock	844.00 PLN
@@ -16103,6 +16105,7 @@ Wadowice1	28008	in_stock	442.00 PLN
 Wadowice1	28009	in_stock	2112.00 PLN
 Wadowice1	28010	in_stock	803.00 PLN
 Wadowice1	28011	in_stock	3333.00 PLN
+Wadowice1	28012	in_stock	3363.00 PLN
 Wadowice1	28016	in_stock	660.00 PLN
 Wadowice1	28017	in_stock	2268.00 PLN
 Wadowice1	28018	in_stock	1446.00 PLN
@@ -16141,7 +16144,6 @@ Wadowice1	28057	in_stock	2894.00 PLN
 Wadowice1	28058	in_stock	8290.00 PLN
 Wadowice1	28059	in_stock	2088.00 PLN
 Wadowice1	28060	in_stock	2088.00 PLN
-Wadowice1	28061	in_stock	16983.00 PLN
 Wadowice1	28063	in_stock	7147.00 PLN
 Wadowice1	28064	in_stock	2891.00 PLN
 Wadowice1	28065	in_stock	3614.00 PLN
@@ -16175,14 +16177,11 @@ Wadowice1	28098	in_stock	2289.00 PLN
 Wadowice1	28099	in_stock	1004.00 PLN
 Wadowice1	28100	in_stock	1004.00 PLN
 Wadowice1	28101	in_stock	2811.00 PLN
-Wadowice1	28102	in_stock	683.00 PLN
 Wadowice1	28103	in_stock	1767.00 PLN
 Wadowice1	28104	in_stock	2008.00 PLN
 Wadowice1	28105	in_stock	2811.00 PLN
 Wadowice1	28106	in_stock	2347.00 PLN
-Wadowice1	28107	in_stock	2503.00 PLN
 Wadowice1	28108	in_stock	1566.00 PLN
-Wadowice1	28109	in_stock	1526.00 PLN
 Wadowice1	28110	in_stock	1807.00 PLN
 Wadowice1	28111	in_stock	2369.00 PLN
 Wadowice1	28112	in_stock	2088.00 PLN
@@ -16233,7 +16232,6 @@ Wadowice1	28158	in_stock	1125.00 PLN
 Wadowice1	28159	in_stock	1446.00 PLN
 Wadowice1	28161	in_stock	1647.00 PLN
 Wadowice1	28162	in_stock	1847.00 PLN
-Wadowice1	28163	in_stock	1767.00 PLN
 Wadowice1	28164	in_stock	861.00 PLN
 Wadowice1	28167	in_stock	1799.00 PLN
 Wadowice1	28168	in_stock	442.00 PLN
@@ -16243,7 +16241,6 @@ Wadowice1	28171	in_stock	1446.00 PLN
 Wadowice1	28173	in_stock	1767.00 PLN
 Wadowice1	28174	in_stock	1807.00 PLN
 Wadowice1	28175	in_stock	1727.00 PLN
-Wadowice1	28177	in_stock	1687.00 PLN
 Wadowice1	28179	in_stock	1408.00 PLN
 Wadowice1	28180	in_stock	1291.00 PLN
 Wadowice1	28181	in_stock	5475.00 PLN
@@ -16251,6 +16248,7 @@ Wadowice1	28182	in_stock	1606.00 PLN
 Wadowice1	28184	in_stock	1236.00 PLN
 Wadowice1	28185	in_stock	1195.00 PLN
 Wadowice1	28186	in_stock	1760.00 PLN
+Wadowice1	28188	in_stock	2209.00 PLN
 Wadowice1	28189	in_stock	423.00 PLN
 Wadowice1	28192	in_stock	1205.00 PLN
 Wadowice1	28193	in_stock	1165.00 PLN
@@ -16270,7 +16268,6 @@ Wadowice1	28211	in_stock	2048.00 PLN
 Wadowice1	28212	in_stock	465.00 PLN
 Wadowice1	28213	in_stock	1643.00 PLN
 Wadowice1	28214	in_stock	1928.00 PLN
-Wadowice1	28216	in_stock	1760.00 PLN
 Wadowice1	28217	in_stock	12125.00 PLN
 Wadowice1	28218	in_stock	1606.00 PLN
 Wadowice1	28219	in_stock	1687.00 PLN
@@ -16336,7 +16333,6 @@ Wadowice1	28291	in_stock	795.00 PLN
 Wadowice1	28292	in_stock	964.00 PLN
 Wadowice1	28293	in_stock	2957.00 PLN
 Wadowice1	28294	in_stock	2112.00 PLN
-Wadowice1	28295	in_stock	5059.00 PLN
 Wadowice1	28296	in_stock	2329.00 PLN
 Wadowice1	28297	in_stock	3911.00 PLN
 Wadowice1	28298	in_stock	1928.00 PLN
@@ -16345,7 +16341,6 @@ Wadowice1	28300	in_stock	15485.00 PLN
 Wadowice1	28301	in_stock	6648.00 PLN
 Wadowice1	28302	in_stock	7117.00 PLN
 Wadowice1	28303	in_stock	402.00 PLN
-Wadowice1	28304	in_stock	2128.00 PLN
 Wadowice1	28305	in_stock	2168.00 PLN
 Wadowice1	28306	in_stock	2329.00 PLN
 Wadowice1	28307	in_stock	2771.00 PLN
@@ -16354,7 +16349,6 @@ Wadowice1	28309	in_stock	3052.00 PLN
 Wadowice1	28310	in_stock	2891.00 PLN
 Wadowice1	28311	in_stock	3172.00 PLN
 Wadowice1	28312	in_stock	3373.00 PLN
-Wadowice1	28313	in_stock	3212.00 PLN
 Wadowice1	28315	in_stock	1291.00 PLN
 Wadowice1	28316	in_stock	392.00 PLN
 Wadowice1	28317	in_stock	563.00 PLN
@@ -16362,7 +16356,6 @@ Wadowice1	28318	in_stock	1174.00 PLN
 Wadowice1	28319	in_stock	577.00 PLN
 Wadowice1	28320	in_stock	1956.00 PLN
 Wadowice1	28321	in_stock	2112.00 PLN
-Wadowice1	28322	in_stock	723.00 PLN
 Wadowice1	28324	in_stock	2650.00 PLN
 Wadowice1	28325	in_stock	2209.00 PLN
 Wadowice1	28327	in_stock	4028.00 PLN
@@ -17891,7 +17884,6 @@ Wadowice1	29857	in_stock	402.00 PLN
 Wadowice1	29858	in_stock	884.00 PLN
 Wadowice1	29859	in_stock	1968.00 PLN
 Wadowice1	29860	in_stock	1205.00 PLN
-Wadowice1	29861	in_stock	1408.00 PLN
 Wadowice1	29862	in_stock	1125.00 PLN
 Wadowice1	29863	in_stock	1360.00 PLN
 Wadowice1	29864	in_stock	1406.00 PLN
@@ -17923,7 +17915,6 @@ Wadowice1	29891	in_stock	2891.00 PLN
 Wadowice1	29892	in_stock	626.00 PLN
 Wadowice1	29893	in_stock	822.00 PLN
 Wadowice1	29894	in_stock	1447.00 PLN
-Wadowice1	29895	in_stock	1847.00 PLN
 Wadowice1	29896	in_stock	1325.00 PLN
 Wadowice1	29897	in_stock	1767.00 PLN
 Wadowice1	29898	in_stock	1727.00 PLN
@@ -18194,3 +18185,14 @@ Wadowice1	30164	in_stock	10245.00 PLN
 Wadowice1	30165	in_stock	1285.00 PLN
 Wadowice1	30166	in_stock	1285.00 PLN
 Wadowice1	30167	in_stock	3493.00 PLN
+Wadowice1	30168	in_stock	1205.00 PLN
+Wadowice1	30169	in_stock	1566.00 PLN
+Wadowice1	30170	in_stock	3324.00 PLN
+Wadowice1	30171	in_stock	2225.00 PLN
+Wadowice1	30172	in_stock	2490.00 PLN
+Wadowice1	30173	in_stock	2008.00 PLN
+Wadowice1	30174	in_stock	1604.00 PLN
+Wadowice1	30175	in_stock	1682.00 PLN
+Wadowice1	30176	in_stock	884.00 PLN
+Wadowice1	30177	in_stock	1366.00 PLN
+Wadowice1	30178	in_stock	1285.00 PLN
