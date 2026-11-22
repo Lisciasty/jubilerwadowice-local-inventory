@@ -11848,7 +11848,6 @@ Wadowice1	23207	in_stock	1171.00 PLN
 Wadowice1	23208	in_stock	1422.00 PLN
 Wadowice1	23209	in_stock	1171.00 PLN
 Wadowice1	23210	in_stock	1422.00 PLN
-Wadowice1	23211	in_stock	2.00 PLN
 Wadowice1	23212	in_stock	1025.00 PLN
 Wadowice1	23213	in_stock	1025.00 PLN
 Wadowice1	23220	in_stock	1560.00 PLN
